@@ -1,9 +1,8 @@
 ![](https://raw.githubusercontent.com/StefanoAtzeni2001/StefanoAtzeni2001/main/banner.png)
 ## Hi there 👋, my name is Stefano
-Computer Science student at the University of Turin, pursuing a Master's degree in Artificial Intelligence. 
+Computer Science student at the University of Turin, pursuing a Master's degree in Artificial Intelligence.  
 Currently seeking opportunities to gain experience in the field.  
 Interested reader with a passion for exploring new topics.
-
 Skills: Python / Java / JS / HTML / CSS
 
 - 🔭 I’m currently working on: Cellular Automata 
