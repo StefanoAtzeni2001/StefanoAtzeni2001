@@ -2,7 +2,7 @@
 ## Hi there 👋, my name is Stefano
 Computer Science student at the University of Turin, pursuing a Master's degree in Artificial Intelligence.  
 Currently seeking opportunities to gain experience in the field.  
-Interested reader with a passion for exploring new topics. 
+Interested reader with a passion for exploring new topics.  
 Skills: Python / Java / JS / HTML / CSS
 
 - 🔭 I’m currently working on: Cellular Automata 
