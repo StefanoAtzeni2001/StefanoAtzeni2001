@@ -5,8 +5,8 @@ Currently seeking opportunities to gain experience in the field.
 Interested reader with a passion for exploring new topics.  
 Skills: Python / Java / JS / HTML / CSS
 
-- 🔭 I’m currently working on: Cellular Automata 
-- 🌱 I’m currently learning: Neural Networks 
+- 🔭 I’m currently working on: Fallacy Detection 
+- 🌱 I’m currently learning: LLMs
 - 👀 I'm currently interested in: NLP, Cognitive Science,Technology Ethics
 - 📫 How to reach me:
   - Personal: stefano.atzeni01@gmail.com
